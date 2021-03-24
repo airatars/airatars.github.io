@@ -13,8 +13,7 @@
     perspective: 1000px;
   }
   .container {
-    width: 250px;
-    height: 500px;
+    width: 50%;
     display: flex;
     justify-content: center;
     align-items: center;
